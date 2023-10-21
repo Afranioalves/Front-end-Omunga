@@ -1,5 +1,5 @@
 import type { NextPage } from 'next';
-import Menu from '../../Components/Menu';
+import Menu from '../../Components/menu.component';
 import Head from 'next/head';
 import SecundaryHeader from '../../Components/Header/SecundaryHeader';
 import { useArticle } from '../../context/ArticlesProvider';

@@ -1,7 +1,7 @@
 import { Footer } from "../../Components/Footer";
 import type { NextPage } from 'next'
 import { useState, FormEvent } from 'react'
-import Menu from "../../Components/Menu";
+import Menu from "../../Components/menu.component";
 import { FaUser, FaLock, FaAngleRight, FaEye, FaEyeSlash } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
 import { StyledRegistry, Form, InputDiv, InputDivOne, InputPassword } from './styles'

@@ -1,8 +1,7 @@
 import type { NextPage } from 'next'
 import { useState } from 'react'
 import { useAuth } from '../../context/AppContext'
-
-import Menu from '../../Components/Menu'
+import Menu from '../../Components/menu.component'
 import { Footer } from '../../Components/Footer/index'
 import { FaAngleRight, FaUser, FaLock, FaEye, FaEyeSlash } from 'react-icons/fa'
 import { StyledLogin, Form, DivInput } from "./styles"

@@ -1,6 +1,6 @@
 
 import { Container } from "../../styles/Container"
-import Menu from "../../Components/Menu"
+import Menu from "../../Components/menu.component"
 import {Footer} from "../../Components/Footer"
 import Head from "next/head";
 import {
