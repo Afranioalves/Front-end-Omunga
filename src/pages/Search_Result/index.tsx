@@ -3,7 +3,7 @@ import { Article } from "../../Components/Article";
 import { Footer } from "../../Components/Footer";
 import ForumsCards from "../../Components/ForumsCrads";
 import Input from "../../Components/Input";
-import Menu from "../../Components/Menu";
+import Menu from "../../Components/menu.component";
 import { OmungaSocialMedias } from "../../Components/OmungaSocialMedias";
 import { useArticle } from "../../context/ArticlesProvider";
 import { ResoultSection, SearchResultSection, Title } from "./styles";

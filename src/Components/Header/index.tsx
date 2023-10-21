@@ -1,4 +1,4 @@
-import Menu from "../Menu"
+import Menu from "../menu.component"
 import {Container} from "../../styles/Container"
 import {HeroMessage, HeroSection, StyledHeader, Lampada, VerMais} from "./styles"
 import Input from "../Input"

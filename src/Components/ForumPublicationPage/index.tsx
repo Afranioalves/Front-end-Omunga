@@ -1,7 +1,7 @@
 import React from "react";
 import { Footer } from "../Footer";
 import SecundaryHeader from "../Header/SecundaryHeader";
-import Menu from "../Menu";
+import Menu from "../menu.component";
 import { OmungaSocialMedias } from "../OmungaSocialMedias";
 import ForumsCards from "../ForumsCrads";
 
